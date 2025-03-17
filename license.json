@@ -1,0 +1,12 @@
+{
+    "ABCD-1234-EFGH-5678": {
+      "dataExpiracao": "2025-04-11",
+      "nomeCliente": "Empresa XYZ",
+      "tipo": "premium"
+    },
+    "WXYZ-9876-LMNO-5432": {
+      "dataExpiracao": "2023-12-31",
+      "nomeCliente": "Empresa ABC",
+      "tipo": "standard"
+    }
+  }
