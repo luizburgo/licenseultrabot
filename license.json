@@ -1,5 +1,12 @@
 {
-    "ABCD-1234-EFGH-5678" {
+  "licencas": {
+    "CODIGO1": {
+      "dataExpiracao": "2025-12-31",
+      "nome": "Cliente 1"
     },
-    "WXYZ-9876-LMNO-5432"
+    "CODIGO2": {
+      "dataExpiracao": "2024-06-30",
+      "nome": "Cliente 2"
     }
+  }
+}
